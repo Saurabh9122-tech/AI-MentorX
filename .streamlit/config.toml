@@ -1,0 +1,12 @@
+# Streamlit Community Cloud deployment config
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[theme]
+primaryColor = "#1a73e8"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#1f2328"
+font = "sans serif"
